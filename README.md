@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AnmolDotX/AnmolDotX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Anmol Kumar** and I am a full stack web-developer based in India. Primarily I work on MERN stack based projects and have an experience of more than 1 year with it.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:flex; gap:20px">
+
+![My Github Stats](https://api.githubtrends.io/user/svg/AnmolDotX/repos?time_range=one_year&theme=synthwaves)
+
+![My Github langs](https://api.githubtrends.io/user/svg/AnmolDotX/langs?time_range=one_year&theme=synthwaves)
+    
+</div>
+
+
