@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://x.com/anmoldotx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anmolTwts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmoldotx" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmoldotx" height="30" width="40" /></a>
-<a href="discordapp.com/users/1138406731404292106" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deadpooldotx" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1138406731404292106" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="deadpooldotx" height="30" width="40" /></a>
 </p>
 
 
