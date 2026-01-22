@@ -2,13 +2,13 @@
 
 **Full Stack Developer** | Javascript Ecosystem | Based in India
 
-Engineer who actually makes things look _intentional_ (not like my Figma files). Yeah, I build dashboards and web apps that don't make your eyes bleed. Wild, right?
+Engineer who actually makes things look _intentional_ (not like any AI Slopes 🫠). And, I build dashboards and web apps that don't make your eyes bleed with WILD Design Sense 😎.
 
 ## About Me
 
 - Computer Science Graduate who actually codes (not just talks about it)
 - Building full-stack applications and HRMS tools that people actually _want_ to use
-- I'm obsessed with shipping fast and thinking in terms of actual product-market fit (crazy concept, I know)
+- I'm obsessed with shipping fast and thinking in terms of actual product-market fit (crazy ownership, I know)
 - Collaborating with teams where we're all actually on the same page
 
 ## Tech Stack
@@ -19,7 +19,7 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
 
 **Databases:** MongoDB | PostgreSQL | MySQL
 
-**Tools & Platforms:** Git | Docker | NPM | GitHub Pages
+**Tools & Platforms:** Git | Docker | NPM | GitHub | AWS | And whatever new comes in the market
 
 ## Projects
 
@@ -28,7 +28,7 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
     <td width="50%">
       <h3>BabaChats AI</h3>
       <p><strong>Spiritual AI Companion</strong></p>
-      <p>A spiritual AI chatbot that actually gets you. Career advice, tech talks, wanderlust vibes, and soul-searching sessions—all in real-time. Free tier's pretty solid, Pro tier slaps.</p>
+      <p>A spiritual AI chatbot that actually gets you. Career advice, tech talks, wanderlust vibes, and soul-searching sessions all in real-time. Free tier's pretty solid, <br/> [NOTE : Pro tier still incoming, coz I don't have time to work on this.😅]</p>
       <p>
         <a href="https://chat.babacreates.in/">Live</a> | 
         <a href="https://github.com/AnmolDotX/babachats-ai">Repo</a>
@@ -50,7 +50,7 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
     <td width="50%">
       <h3>BabaCreates</h3>
       <p><strong>Developer Portfolio</strong></p>
-      <p>My digital playground where I flex projects, share the chaos of my dev journey, and prove that my work isn't just code—it's *craft*.</p>
+      <p>My digital playground where I flex projects, share the chaos of my dev journey, and prove that my work isn't just code it's CRAFT 🤌🏼.</p>
       <p>
         <a href="https://babacreates.in/">Live</a>
       </p>
@@ -59,7 +59,7 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
     <td width="50%">
       <h3>Zarasana Agency</h3>
       <p><strong>Creative Digital Agency</strong></p>
-      <p>We turn creators' and startups' wildest ideas into sleek, lightning-fast digital presence. Custom sites, e-commerce that converts, web apps that *work*—basically, we make the internet less mid.</p>
+      <p>We turn creators' and startups' wildest ideas into sleek, lightning-fast digital presence. Custom sites/portfolios, e-commerce that converts, web apps that WORK. Basically, I make the internet less mid.😎</p>
       <p>
         <a href="https://www.zarasana.com/">Live</a>
       </p>
@@ -68,7 +68,7 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
   </tr>
 </table>
 
-## Let's Link Up
+## Slide in DMs 👇🏼
 
 **Email:** kumaranmol8611@gmail.com
 
@@ -78,23 +78,17 @@ Engineer who actually makes things look _intentional_ (not like my Figma files).
 
 ---
 
-**Caught your attention? No cap—hit me up. Let's build something iconic together.**
+**Caught your attention or wanna hire or just talk?** <br/> No cap hit me up. Let's build something iconic together.\*\*
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AnmolDotX">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolDotX&show_icons=true&theme=react" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/AnmolDotX">
-        <img height="180em" src="https://streak-stats.demolab.com?user=AnmolDotX&theme=react" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/AnmolDotX">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolDotX&show_icons=true&theme=react" />
+  </a>
+  <a href="https://github.com/AnmolDotX">
+    <img height="180em" src="https://streak-stats.demolab.com?user=AnmolDotX&theme=react" alt="GitHub Streak" />
+  </a>
+</div>
 
 <a href="https://github.com/AnmolDotX">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolDotX&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolDotX&theme=react-dark" />
 </a>
