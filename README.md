@@ -80,15 +80,6 @@ Engineer who actually makes things look _intentional_ (not like any AI Slopes ðŸ
 
 **Caught your attention or wanna hire or just talk?** <br/> No cap hit me up. Let's build something iconic together.\*\*
 
-<div align="center">
-  <a href="https://github.com/AnmolDotX">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolDotX&show_icons=true&theme=react" />
-  </a>
-  <a href="https://github.com/AnmolDotX">
-    <img height="180em" src="https://streak-stats.demolab.com?user=AnmolDotX&theme=react" alt="GitHub Streak" />
-  </a>
-</div>
-
 <a href="https://github.com/AnmolDotX">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolDotX&theme=react-dark" />
 </a>
