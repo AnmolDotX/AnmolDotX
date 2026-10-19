@@ -1,85 +1,22 @@
-# Yo, Anmol Kumar Here
+# Hey, I'm Anmol Kumar 👋
 
-**Full Stack Developer** | Javascript Ecosystem | Based in India
+**UI Engineer · Full-Stack Developer · Design Engineering**
 
-Engineer who actually makes things look _intentional_ (not like any AI Slopes 🫠). And, I build dashboards and web apps that don't make your eyes bleed with WILD Design Sense 😎.
+I build web apps that *work beautifully and look intentional.*
 
-## About Me
+B.Sc. in Computer Application (2024) graduate. I've worked with freelancers, built products at startups, and now work as a **UI Engineer in big tech**.
 
-- Computer Science Graduate who actually codes (not just talks about it)
-- Building full-stack applications and HRMS tools that people actually _want_ to use
-- I'm obsessed with shipping fast and thinking in terms of actual product-market fit (crazy ownership, I know)
-- Collaborating with teams where we're all actually on the same page
+**Tech I work with:** React.js · Next.js · React Native · Node.js · Express.js · MySQL · Tailwind CSS
 
-## Tech Stack
+I care about clean code, thoughtful UI/UX, and turning ideas into products people love using.
 
-**Frontend:** JavaScript | TypeScript | React | Next.js | React Native | TailwindCSS | Redux Toolkit | Zustang
+### Find me around the internet
 
-**Backend:** Node.js | Express.js | Socket.io
+- 🌐 Portfolio: [babacreates.in](https://babacreates.in)
+- 🚀 Agency: [zarasana.com](https://zarasana.com)
+- 𝕏 Twitter: [@AnmolDotX](https://x.com/AnmolDotX)
+- 💼 LinkedIn: [Anmol Kumar](https://www.linkedin.com/in/anmoldotx)
 
-**Databases:** MongoDB | PostgreSQL | MySQL
+**Always open to collaborations, interesting projects, and great conversations about engineering or opportunities.**
 
-**Tools & Platforms:** Git | Docker | NPM | GitHub | AWS | And whatever new comes in the market
-
-## Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>BabaChats AI</h3>
-      <p><strong>Spiritual AI Companion</strong></p>
-      <p>A spiritual AI chatbot that actually gets you. Career advice, tech talks, wanderlust vibes, and soul-searching sessions all in real-time. Free tier's pretty solid, <br/> [NOTE : Pro tier still incoming, coz I don't have time to work on this.😅]</p>
-      <p>
-        <a href="https://chat.babacreates.in/">Live</a> | 
-        <a href="https://github.com/AnmolDotX/babachats-ai">Repo</a>
-      </p>
-      <p><strong>Tech:</strong> Next.js | TypeScript | PostgreSQL | Drizzle ORM | Tailwind CSS</p>
-    </td>
-    <td width="50%">
-      <h3>Zarasana UI Library</h3>
-      <p><strong>Multi-Theme Component Library</strong></p>
-      <p>Drop-dead gorgeous component library with Neo-Saas, Glass, and Neo-Brutalism themes. If your UI doesn't make people stop and stare, are you even trying?</p>
-      <p>
-        <a href="https://ui.zarasana.com/">Live</a> | 
-        <a href="https://zarasana.com/">Agency</a>
-      </p>
-      <p><strong>Tech:</strong> React | TypeScript | Tailwind CSS | motion.dev</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>BabaCreates</h3>
-      <p><strong>Developer Portfolio</strong></p>
-      <p>My digital playground where I flex projects, share the chaos of my dev journey, and prove that my work isn't just code it's CRAFT 🤌🏼.</p>
-      <p>
-        <a href="https://babacreates.in/">Live</a>
-      </p>
-      <p><strong>Tech:</strong> Next.js | TypeScript | Tailwind CSS | Sanity CMS</p>
-    </td>
-    <td width="50%">
-      <h3>Zarasana Agency</h3>
-      <p><strong>Creative Digital Agency</strong></p>
-      <p>We turn creators' and startups' wildest ideas into sleek, lightning-fast digital presence. Custom sites/portfolios, e-commerce that converts, web apps that WORK. Basically, I make the internet less mid.😎</p>
-      <p>
-        <a href="https://www.zarasana.com/">Live</a>
-      </p>
-      <p><strong>Tech:</strong> Next.js | React | TypeScript | Tailwind CSS</p>
-    </td>
-  </tr>
-</table>
-
-## Slide in DMs 👇🏼
-
-**Email:** kumaranmol8611@gmail.com
-
-**LinkedIn:** [linkedin.com/in/anmoldotx](https://linkedin.com/in/anmoldotx)
-
-**Twitter:** [@anmoldotx](https://x.com/anmoldotx)
-
----
-
-**Caught your attention or wanna hire or just talk?** <br/> No cap hit me up. Let's build something iconic together.\*\*
-
-<a href="https://github.com/AnmolDotX">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolDotX&theme=react-dark" />
-</a>
+Got something interesting in mind? Reach out via my socials or email me at **[your email address]**.
