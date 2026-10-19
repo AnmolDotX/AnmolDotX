@@ -4,7 +4,7 @@
 
 I build web apps that *work beautifully and look intentional.*
 
-B.Sc. in Computer Application (2024) graduate. I've worked with freelancers, built products at startups, and now work as a **UI Engineer in big tech**.
+B.Sc. in Computer Application (2024) graduate. I've worked with freelancers, built products at startups, and now work as a **UI Engineer in Bengaluru, India**.
 
 **Tech I work with:** React.js · Next.js · React Native · Node.js · Express.js · MySQL · Tailwind CSS
 
