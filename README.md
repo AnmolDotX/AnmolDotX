@@ -19,4 +19,4 @@ I care about clean code, thoughtful UI/UX, and turning ideas into products peopl
 
 **Always open to collaborations, interesting projects, and great conversations about engineering or opportunities.**
 
-Got something interesting in mind? Reach out via my socials or email me at **[your email address]**.
+Got something interesting in mind? Reach out via my socials or email me at **anmolfolio@gmail.com**.
